@@ -4,7 +4,7 @@ import numpy as np
 
 # Importing the trained model 
 # NB!! the path has to be changed to reproduce the results
-model = tf.keras.models.load_model('C:/Users/arege/Dokumenter/Dataingenior Bachelor/DAT158/Machine Learning/Fruitoo/fruitoo_v3_10ep.keras')
+model = tf.keras.models.load_model('/Fruitoo/fruitoo_v3_10ep.keras')
 
 # Names of all the fruit classifications
 class_names = [
