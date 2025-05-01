@@ -2,6 +2,8 @@
 ## The Fruit Classification Model
 The following repository contains our fruit classification model, which can predict the correct fruit into 29 different categories, listed in full below. It is a deep neural network, implemented through a sequential model for image classification.
 <br/><br/>
+Demos of the model can be found in the appropriately named folder, showcasing the model's abilities.
+<br/><br/>
 The code can also be found at Kaggle [here at /amalierege/fruit-bonanza](https://www.kaggle.com/code/amalierege/fruit-bonanza).
 
 ## Context
